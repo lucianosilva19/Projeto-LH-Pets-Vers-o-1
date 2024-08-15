@@ -1,0 +1,6 @@
+C:\LH_Pets\obj\Debug\net8.0\LH_Pets.csproj.AssemblyReference.cache
+C:\LH_Pets\obj\Debug\net8.0\LH_Pets.GeneratedMSBuildEditorConfig.editorconfig
+C:\LH_Pets\obj\Debug\net8.0\LH_Pets.AssemblyInfoInputs.cache
+C:\LH_Pets\obj\Debug\net8.0\LH_Pets.AssemblyInfo.cs
+C:\LH_Pets\obj\Debug\net8.0\LH_Pets.csproj.CoreCompileInputs.cache
+C:\LH_Pets\obj\Debug\net8.0\LH_Pets.MvcApplicationPartsAssemblyInfo.cache
